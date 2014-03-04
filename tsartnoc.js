@@ -36,7 +36,11 @@
   };
 
   onReady(function() {
-    return document.getElementById("ifr").focus();
+    var frame, scale;
+    frame = document.getElementById("ifr");
+    scale = Math.min(window.innerWidth / 800, window.innerHeight / 480);
+    frame.style.msTransform = frame.style.webkitTransform = frame.style.transform = "scale(" + scale + ")";
+    return frame.focus();
   });
 
 }).call(this);

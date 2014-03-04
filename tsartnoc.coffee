@@ -15,4 +15,7 @@ onReady = (fn) ->
 # {{{1 Actual code
 
 onReady ->
-  document.getElementById("ifr").focus()
+  frame = document.getElementById("ifr")
+  scale = Math.min window.innerWidth / 800, window.innerHeight / 480
+  frame.style.msTransform = frame.style.webkitTransform = frame.style.transform = "scale(#{scale})"
+  frame.focus()

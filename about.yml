@@ -6,7 +6,7 @@ date: 2012-07-15
 repos: rasmuserik/app-tsartnoc
 html:
   css: ["style.css"]
-  body: <iframe id="ifr" src="game.html" width=800 height=480></iframe>
+  body: '<iframe id="ifr" src="public/game.html" width=800 height=480></iframe>'
 links:
   web_app: http://solsort.com/tsartnoc/
 phonegap:
