@@ -1,0 +1,18 @@
+{
+  "version": "0.0.0",
+  "description": "Result of a ludum dare hackathon.",
+  "keywords": [
+    "app",
+    "game",
+    "ludum dare",
+    "hackathon"
+  ],
+  "authors": [
+    "Rasmus Erik Voel Jensen (solsort.com)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasmuserik/app-tsartnoc.git"
+  },
+  "name": "tsartnoc"
+}

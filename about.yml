@@ -1,9 +1,12 @@
 title: Tsar Tnoc
-description:
-  Result of a ludum dare hackathon.
+desc: Result of a ludum dare hackathon.
 name: tsartnoc
 tags: [app, game, ludum dare, hackathon]
 date: 2012-07-15
+repos: rasmuserik/app-tsartnoc
+html:
+  css: ["style.css"]
+  body: <iframe id="ifr" src="game.html" width=800 height=480></iframe>
 links:
   web_app: http://solsort.com/tsartnoc/
 phonegap:
