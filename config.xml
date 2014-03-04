@@ -8,7 +8,7 @@
 
     <name>Tsar Tnoc</name>
     <description>Result of a ludum dare hackathon.</description>
-    <author href="http://solsort.com" email="tsartnoc@solsort.com">solsort.com</author>
+    <author href="http://solsort.com" email="tsartnoc@solsort.com">Rasmus Erik Voel Jensen (solsort.com)</author>
     <preference name="phonegap-version" value="3.3.0" />
     <preference name="orientation" value="landscape" />
     <preference name="target-device" value="universal" />
