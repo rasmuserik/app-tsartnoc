@@ -4,6 +4,8 @@
         id = "com.solsort.tsartnoc"
         version = "0.0.0">
     <name>Tsar Tnoc</name>
+    <date>2013-04</date>
+
     <shortdescription>Result of a ludum dare hackathon.</shortdescription>
     <description>Simple game, walking around in a world, collecting contrast icons, and avoiding monsters. Developed during a ludum dare hackathon.</description>
     <author href="http://solsort.com" email="tsartnoc@solsort.com">Rasmus Erik Voel Jensen (solsort.com)</author>
